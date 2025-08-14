@@ -5,10 +5,10 @@
 
 ```
 # install
-conda env create -f wasp_deep_learning_module3.yml
+conda env create -f fashion_mnist_env.yml
 
 # activate
-conda activate wasp_deep_learning_module3
+conda activate fashion_mnist_env
 ```
 3. Open main.ipynb in your editor of choice (like vscode)
 4. Run all segments in sequence, this will automatically download the dataset, build the model and start the training.
